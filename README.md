@@ -13,7 +13,7 @@
 | ✈️ **Predicción del precio de vuelos** | Uso de regresión para predecir el precio de vuelos según fecha, origen, destino, etc. |
 | 🚬🤰 **Tabaquismo y gestación** | Estudio de correlación entre hábitos de tabaquismo y variables durante el embarazo. |
 | 📈 **Regresión lineal** | Ejercicios prácticos usando regresión lineal para entender relaciones entre variables numéricas. |
-| 📈 **Modelos avanzados y redes neuronales** | Ejercicios de Word Embedding (Matriz de embedding),  red neuronal recurrente LSTM,Curvas ROC y AUC, predicciones del archivo “news_pred.csv”,  búsqueda de grilla,  red neuronal Fully Connected,  Extreme Gradient Boosting, modelo de Bagging . |
+| 🧠 **Modelos avanzados y redes neuronales** | Ejercicios de Word Embedding (Matriz de embedding),  red neuronal recurrente LSTM,Curvas ROC y AUC, predicciones del archivo “news_pred.csv”,  búsqueda de grilla,  red neuronal Fully Connected,  Extreme Gradient Boosting, modelo de Bagging . |
 
 ## 🛠 Librerías utilizadas
 
