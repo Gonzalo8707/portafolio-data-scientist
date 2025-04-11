@@ -44,3 +44,5 @@ Los datasets utilizados están en la carpeta datasets/ o enlazados desde fuentes
 
 Este portafolio se irá actualizando a medida que avance mi aprendizaje y nuevos proyectos.
 
+---
+📫 Puedes encontrarme en [LinkedIn](www.linkedin.com/in/gonzalo-aravena-datascientist)
