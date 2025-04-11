@@ -1,7 +1,7 @@
 # portafolio-data-scientist
 # 🧠 Portafolio de Ciencia de Datos
 
-¡Hola! Soy [Tu Nombre], futuro científico de datos con formación práctica en análisis de datos, machine learning y modelado estadístico. Este repositorio contiene algunos de los notebooks desarrollados durante mi formación, donde abordo distintos problemas reales con soluciones basadas en datos.
+¡Hola! Soy Gonzalo, científico de datos con formación práctica en análisis de datos, machine learning y modelado estadístico. Este repositorio contiene algunos de los notebooks desarrollados durante mi formación y "tiempo libre", donde abordo distintos problemas reales con soluciones basadas en datos.
 
 ## 📁 Notebooks destacados
 
